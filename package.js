@@ -1,7 +1,7 @@
 Package.describe({
 	name:"khamoud:s3",
-	summary: "Upload files to S3. Allows use of Knox Server-Side. (fork)",
-	version:"4.1.3",
+	summary: "Upload files to S3. Allows use of Knox Server-Side.  Supports canvas images.",
+	version:"4.1.4",
 	git:"https://github.com/krishamoud/meteor-s3"
 });
 
